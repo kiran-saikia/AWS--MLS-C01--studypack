@@ -1,5 +1,5 @@
 # 🧠 AWS Certified Machine Learning – Specialty (MLS-C01) Practice Tests
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 ![Questions Count](https://img.shields.io/badge/Questions-137-blueviolet)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen)
 
