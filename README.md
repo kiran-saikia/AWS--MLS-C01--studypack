@@ -3,7 +3,7 @@
 ![Questions Count](https://img.shields.io/badge/Questions-137-blueviolet)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen)
 
-![AWS Logo](images/aws.png)
+![AWS ML Cert Badge](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Machine-Learning-Specialty_512x512.d8df82eedc09c1d4c3f2ce3e8e9b93e2d9b51d9e.png)
 
 Prepare effectively for the **AWS Certified Machine Learning – Specialty (MLS-C01)** exam with these curated practice questions and answers.
 
