@@ -3,10 +3,8 @@
 ![Questions Count](https://img.shields.io/badge/Questions-137-blueviolet)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen)
 
-![AWS ML Cert Badge](images/aws_logo.png)
-
 Prepare effectively for the **AWS Certified Machine Learning – Specialty (MLS-C01)** exam with these curated practice questions and answers.
-
+![AWS ML Cert Badge](images/aws_logo.png)
 ## 📚 What's Included
 
 * ✅ **137 unique** practice questions tailored to the MLS-C01 exam
